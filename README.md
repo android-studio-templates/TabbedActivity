@@ -1,0 +1,3 @@
+# TabbedActivity
+
+### Android Studio Template
